@@ -1,0 +1,4 @@
+ERROR línea de error
+ERRO esta es otra línea con error ERROR
+WARN esta no la debería pillar
+INFO esta tampoco
